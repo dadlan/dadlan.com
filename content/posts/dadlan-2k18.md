@@ -1,7 +1,7 @@
 ---
 title: "Dadlan 2k18"
 date: 2018-11-02T07:05:02-08:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
