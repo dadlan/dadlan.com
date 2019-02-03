@@ -4,8 +4,11 @@ date: 2019-01-22T22:04:31-08:00
 draft: false
 toc: true
 images:
-tags: 
+tags:
   - untagged
 ---
+# dadlan.com is here!
+Hugo is pretty rad
 
-# DadLAN
+# Spring (Liberty Lake, WA)
+More to come!
