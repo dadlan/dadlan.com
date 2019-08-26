@@ -7,6 +7,7 @@ images:
 tags:
   - untagged
 ---
+
 # dadlan.com is here!
 Hugo is pretty rad
 
