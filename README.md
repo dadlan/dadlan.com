@@ -8,3 +8,7 @@
 3. Run local environment (and display drafts)
 `hugo serve -D`
 4. Modify the content, make sure you modify draft line to be true, then check contain with `hugo serve`
+
+## Deployment
+
+Deployment is now covered by github actions (deploys to github pages).
