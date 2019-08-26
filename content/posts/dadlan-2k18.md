@@ -2,11 +2,12 @@
 title: "Dadlan 2k18"
 date: 2018-11-02T07:05:02-08:00
 draft: false
-toc: false
+toc: true
 images:
 tags:
-  - untagged
+  - dadlan
 ---
+
 # Spring (Liberty Lake, WA)
 - So much [Kingdom Come](Kingdom Come: Deliverance on Steam
 https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/)
