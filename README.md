@@ -1,7 +1,7 @@
 # dadlan.com
 
 ## Dev environment:
-1. Install [Hugo]((https://gohugo.io/content-management/organization/)
+1. Install [Hugo](https://gohugo.io/content-management/organization/)
 `brew install hugo`
 2. Add content, example:
 `hugo new posts/dadlan-2k18.md`
