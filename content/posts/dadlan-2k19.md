@@ -13,3 +13,5 @@ Hugo is pretty rad
 
 # Spring (Liberty Lake, WA)
 More to come!
+
+lol too many naps
