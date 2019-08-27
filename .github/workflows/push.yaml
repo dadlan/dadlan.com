@@ -13,14 +13,7 @@ jobs:
       with:
         submodules: true
     - name: build
-      uses: peaceiris/actions-hugo@v0.57.2
+      uses: mattbailey/actions-hugo@v0.57.2
       if: github.event.deleted == false
       with:
         args: --gc --minify --cleanDestinationDir
-    - name: deploy
-      uses: peaceiris/actions-gh-pages@fix-branching
-      if: success()
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: ./public
