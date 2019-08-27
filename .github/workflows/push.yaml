@@ -17,3 +17,5 @@ jobs:
       if: github.event.deleted == false
       with:
         args: --gc --minify --cleanDestinationDir
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
