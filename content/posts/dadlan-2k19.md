@@ -12,4 +12,4 @@ tags:
 Hugo is pretty rad
 
 # Spring (Liberty Lake, WA)
-lol too many naps
+lol too many naps.
