@@ -1,6 +1,10 @@
 name: github pages
 
 on:
+  pull_request:
+    types:
+      - opened
+      - edited
   push:
     branches:
       - master
