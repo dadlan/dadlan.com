@@ -9,24 +9,23 @@ tags:
 ---
 
 # Sausagefest Nov 1-4 (Leavenworth, WA)
-- New Swag
+- luxury_yacht flew in from Toronto making this our first official International Dadlan
+- Steam Shopping Cart was the most popular game
+- Whiteclawgate
+- Swag
+  - Sausagefest Commemorative Sticker
   - Custom embroidered hats
   - Dadlan keycaps
-  - Dadlan Logo Stickers
-- Andrew flew in from Toronto making this our first official International Dadlan
-- Steam Shopping Cart was most popular
 - 12 attendees
-  - Matt
-  - Jordan
-  - Chris
-  - Justin
-  - Zach
-  - Alan
-  - Ricky
-  - Ben
-  - Drew (FNG)
-  - Andrew (FNG)
-  - Miller
-  - Riley
-
-
+  - ribo
+  - longjax
+  - Gine
+  - hiccupatron
+  - Prozach
+  - skidd
+  - Invisus
+  - Oafie
+  - OptimusB
+  - parasox (FNG)
+  - Geiger (FNG)
+  - luxury_yacht (FNG)
