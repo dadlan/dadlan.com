@@ -14,8 +14,6 @@ jobs:
         with:
           submodules: true
           lfs: true
-      - run: |
-          git config --global --add safe.directory /github/workspace
       - name: build
         uses: mattbailey/actions-hugo@v0.105.0
         if: github.event.deleted == false
