@@ -8,7 +8,7 @@ tags:
   - dadlan
 ---
 
-# Intentional Dadlan Aug 11-13 (Liberty Lake, WA)
+# The First Intentional Dadlan Aug 11-13 (Liberty Lake, WA)
 - Sexy shirts with a very simple design
 - Plenty of Overwatch
 - Chris and Jordan drove across the state to take naps(mostly Chris)
