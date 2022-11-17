@@ -11,15 +11,15 @@ tags:
 # The First Intentional Dadlan Aug 11-13 (Liberty Lake, WA)
 - Sexy shirts with a very simple design
 - Plenty of Overwatch
-- Chris and Jordan drove across the state to take naps(mostly Chris)
+- Gine and Longjax drove across the state to take naps(mostly Gine)
 - Nobody threw up
-- Matt's basement was overtaken
+- Ribo's basement was overtaken
 - 6 attendees
-  - Matt
-  - Jordan
-  - Chris
-  - Zach
-  - Riley
-  - Alan
+  - Ribo
+  - Longjax
+  - Gine
+  - Prozach
+  - RadRiley
+  - Skidd
   
 
