@@ -1,0 +1,24 @@
+// Colors
+$light-grey: #000;
+
+@import url('https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i');
+
+$fonts: 'Arvo', serif;
+
+.bg-img {
+  opacity: .5 !important;
+}
+
+#home-center {
+  width: 80% !important;
+  flex-grow: initial !important;
+}
+
+#home-title {
+  color: rgba(0, 0, 0, 0);
+  height: 6em;
+  background-position: center;
+  background-image: url('/images/logo.svg');
+  background-size: auto auto;
+  background-repeat: no-repeat;
+}

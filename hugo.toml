@@ -1,0 +1,85 @@
+baseURL                        = "https://dadlan.com/"
+copyright                      = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+defaultContentLanguage         = "en"
+defaultContentLanguageInSubdir = true
+enableEmoji                    = true
+enableGitInfo                  = true
+languageCode                   = "en-us"
+pygmentsCodefences             = true
+pygmentsUseClasses             = true
+rssLimit                       = 10
+theme                          = "hermit-v2"
+title                          = "dadlan"
+
+[taxonomies]
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block  = [['$$', '$$'], ['\[', '\]']] # Mathjax support
+          inline = [['\(', '\)']]               # Mathjax support
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+  dateformShort   = "Jan 2"
+
+  # Metadata mostly used in document's head
+  # description = ""
+  # images = [""]
+  themeColor = "#494f5c"
+
+  bgImg           = "/images/dadlan-fall-2018-oldphoto.jpg" # Homepage background-image URL
+  footerCopyright = ' &#183;'
+  homeSubtitle    = ""
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  # gitUrl = "https://github.com/username/repository/commit/"
+
+  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
+  justifyContent = false # Set "text-align: justify" to .content.
+
+  code_copy_button = true
+  relatedPosts     = true
+
+  global_mathjax      = false
+  homeSubtitlePrinter = true
+  readTime            = true
+  readTimeSeparator   = ":"
+  scrollToTop         = true
+  # legacyLayout = false
+  shareSocial = true
+  # googleTagManager = "GTM-XXXXXXXX"
+  # tagSymbol = "#"
+  # categorySymbol = "⊲"
+  # pinned = "Pinned Posts"
+  # pinnedSVGname = "pin"
+  # descriptionInPosts= true
+  # initialPublish = "Initally Posted on: "
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  #[[params.social]]
+  [[params.socialLinks]]
+    name = "github"
+    url  = "https://github.com/dadlan"
+  [params.author]
+    name = "DadLAN"
+
+
+[menu]
+
+  [[menu.main]]
+    name   = "Posts"
+    url    = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name   = "About"
+    url    = "about/"
+    weight = 20
