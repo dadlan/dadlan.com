@@ -23,57 +23,39 @@ title                          = "dadlan"
           block  = [['$$', '$$'], ['\[', '\]']] # Mathjax support
           inline = [['\(', '\)']]               # Mathjax support
 
+[params.author]
+  name = "DadLAN"
+
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
-  dateformShort   = "Jan 2"
+bgImg               = "/images/dadlan-fall-2018-oldphoto.jpg"          # Homepage background-image URL
+code_copy_button    = true
+dateform            = "Jan 2, 2006"
+dateformNum         = "2006-01-02"
+dateformNumTime     = "2006-01-02 15:04 -0700"
+dateformShort       = "Jan 2"
+description         = "dadlan usa"
+descriptionInPosts  = true
+footerCopyright     = ' &#183;'
+gitUrl              = "https://github.com/dadlan/dadlan.com/tree/main"
+global_mathjax      = false
+homeSubtitle        = ""
+homeSubtitlePrinter = true
+justifyContent      = false                                            # Set "text-align: justify" to .content.
+pinned              = "Pinned Posts"
+pinnedSVGname       = "pin"
+readTime            = true
+readTimeSeparator   = ":"
+relatedPosts        = true
+scrollToTop         = true
+shareSocial         = true
+themeColor          = "#494f5c"
 
-  # Metadata mostly used in document's head
-  # description = ""
-  # images = [""]
-  themeColor = "#494f5c"
-
-  bgImg           = "/images/dadlan-fall-2018-oldphoto.jpg" # Homepage background-image URL
-  footerCopyright = ' &#183;'
-  homeSubtitle    = ""
-
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = "https://github.com/username/repository/commit/"
-
-  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
-  justifyContent = false # Set "text-align: justify" to .content.
-
-  code_copy_button = true
-  relatedPosts     = true
-
-  global_mathjax      = false
-  homeSubtitlePrinter = true
-  readTime            = true
-  readTimeSeparator   = ":"
-  scrollToTop         = true
-  # legacyLayout = false
-  shareSocial = true
-  # googleTagManager = "GTM-XXXXXXXX"
-  # tagSymbol = "#"
-  # categorySymbol = "⊲"
-  # pinned = "Pinned Posts"
-  # pinnedSVGname = "pin"
-  # descriptionInPosts= true
-  # initialPublish = "Initally Posted on: "
-
-  # Social Icons
-  # Check https://github.com/Track3/hermit#social-icons for more info.
-  #[[params.social]]
   [[params.socialLinks]]
     name = "github"
     url  = "https://github.com/dadlan"
-  [params.author]
-    name = "DadLAN"
 
 
 [menu]
-
   [[menu.main]]
     name   = "Posts"
     url    = "posts/"
